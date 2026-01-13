@@ -1,0 +1,13 @@
+services:
+  ai-platform:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./chroma_db:/app/chroma_db
+    environment:
+      - OPENAI_BASE_URL=https://aiunifier.wonderfulrock-83cb33fd.australiaeast.azurecontainerapps.io
+      - OPENAI_API_KEY=sk-zM2MxgXhXnusmExHx1sKyw
+      - MODEL_NAME=Gpt4o
+    restart: unless-stopped

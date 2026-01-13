@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who is Frodo Baggins?",
+    "answer": "Frodo is a hobbit who inherits the One Ring from Bilbo"
+  },
+  {
+    "question": "What is the One Ring?",
+    "answer": "The One Ring is a powerful ring created by the Dark Lord Sauron"
+  },
+  {
+    "question": "Where does the Fellowship begin their journey?",
+    "answer": "The Fellowship begins their journey from Rivendell"
+  },
+  {
+    "question": "Who are the members of the Fellowship?",
+    "answer": "Frodo, Sam, Merry, Pippin, Gandalf, Aragorn, Boromir, Legolas, and Gimli"
+  },
+  {
+    "question": "What is Mordor?",
+    "answer": "Mordor is the dark realm of Sauron where the Ring must be destroyed"
+  }
+]

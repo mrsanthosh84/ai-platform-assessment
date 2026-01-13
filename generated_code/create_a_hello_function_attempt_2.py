@@ -1,0 +1,1 @@
+def working_function(): return 'Hello, World!'
